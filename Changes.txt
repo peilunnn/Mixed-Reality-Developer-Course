@@ -1,0 +1,16 @@
+Gaze: 
+1) Used code for gaze interaction (highlighting poster on focus) for car and engine posters
+2) Used Interactable to make Hololens poster bigger on focus
+
+Air Taps:
+1) Used code for gesture interaction (air tap + dragging model around)
+2) Used Interactable to make Hololens poster rotate on air tap
+
+Drags & Voice:
+1) Added creation and destruction of SteveHead cube which will follow and look at the player, using IMixedRealitySpeechHandler (voice command: “create Steve” and “destroy Steve”)
+2) Added particle effect with sound using IMixedRealityGestureHandler (drag top poster then release)
+
+Spatial Mapping:
+1) Used code for locking in mesh
+
+Networking: -
